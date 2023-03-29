@@ -1,0 +1,4 @@
+[8085:775:0924/162601.662754:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8114:775:0924/162616.450737:INFO:child_thread_impl.cc(853)] ChildThreadImpl::EnsureConnected()
+[8115:775:0924/162616.459169:INFO:child_thread_impl.cc(853)] ChildThreadImpl::EnsureConnected()
+[8113:775:0924/162616.459254:INFO:child_thread_impl.cc(853)] ChildThreadImpl::EnsureConnected()
